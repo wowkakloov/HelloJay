@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#0000ff</item>
+        <item name="colorPrimaryDark">#00000000</item>
+        <item name="colorAccent">#00ff00</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+</resources>

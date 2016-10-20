@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search_img"
+        android:icon="@drawable/magnifying_glass1"
+        android:title="搜索图片" />
+    <item
+        android:id="@+id/menu_news"
+        android:icon="@drawable/news3"
+        android:title="新闻" />
+</menu>

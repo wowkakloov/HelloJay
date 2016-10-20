@@ -1,0 +1,7 @@
+#Thu Oct 20 19:06:19 CST 2016
+base.0=/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c30ac27f233ea03da22db5332771f51c11869358
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67769e8c634ccf099ece6384c8c3d3d453a905fa/classes.dex
+base.1=/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67769e8c634ccf099ece6384c8c3d3d453a905fa
+file.0=/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c30ac27f233ea03da22db5332771f51c11869358/classes.dex

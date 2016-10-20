@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_e48735dff9a499fbc66656d96a34707df257ffc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c22f98b54eb3d5c5f4dbb40b3c365ff8918896e7">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67769e8c634ccf099ece6384c8c3d3d453a905fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_18dd131a0bdd1b9ad2f20d4a6a2f5322de418f26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_d2ec18141eae801c96db5fa7c86cec2863d21bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_9f8ff307abd6c3499bba217b0d47e1a8525dcf8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_833cd0ac911f9ca60e9db04a3c8a7b95aeb0a280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_871d5f6b39146afd0bbaa533a4a0994b7c539885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69174b3e1ffcf5bcab802fbfad8bde3a0bfb9bd6">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c30ac27f233ea03da22db5332771f51c11869358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_1853c705f99b838bec0363afea140a7e87607501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_c3f1e3eb968a8c5dd3e1706a69739a13f7099458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_a7aef1dbd04e296907a7260c0b96b6191c72af2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.1_73db86ed0118a75111abf9b378305f65da47ec44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_43ed8b56265f31727e7d119ed3373b916e2f4fdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.0/c6d610abe1d75d758431c9234917a349abc0a0ac/greendao-api-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.2.0_4e24a6cfd94cb1163a3f6723324b1c9d7f253493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_4c756aae7c914218393cabae127acaa59d888065/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_e955539e02e95b0d1c9756fac8176bfc9f0db778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.0/e70040568b2929b8e5869ad1ffca8e4386dc53bc/greendao-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.2.0_eab066602d223c7ce4b8d8cb94f4dd22a1192338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_c9eacbfb2964373240566cbfc3726690c75a464f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.0.1_93d219f005220f3e9d1c93e383dcf3186b3e39db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/louzhen/work/workspace/git/HelloJay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.1_a955b1f3ae27e4fce160e493370ac0421ea9ee62/classes.dex" />
+    </item>
+
+</items>
